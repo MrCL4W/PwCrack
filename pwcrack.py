@@ -53,7 +53,7 @@ except ModuleNotFoundError:
     os.system("clear")
 
 os.system("clear")
-time.sleep(3)
+time.sleep(1)
 
 if __name__ == "__main__":
     print('\n---------- Welcome To Facebook BruteForce ----------\n')
